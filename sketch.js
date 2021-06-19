@@ -22,7 +22,7 @@ var rope1;
 var draged = false;
 
 function preload() {
-  bg = loadImage("Images/Court.jpg")
+  bg = loadImage("Images/Court.JPG")
   h1 = loadImage("Images/hoop1.png")
   h2 = loadImage("Images/hoop2.png")
   thumbnail = loadImage("Images/thumbnail.jpg")
